@@ -1,0 +1,26 @@
+/*h1{
+    color: rgb(135, 197, 209);
+    background-color:aquamarine;
+}*/
+
+/* boiler plate for css */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height : 100%;
+    width:100%; 
+}
+
+/*div{
+    height:100px;
+    width:100px;
+    background-color:crimson;
+}*/
+
+#Janhavi{
+    color:brown;
+}
