@@ -108,7 +108,69 @@ let a= 12;
 a=true ;
  console.log(a);
 
+
+
  //since yaha ham state nahi kar rahe ki int hai bollean hai etc we can put any values
 
  // type coercsion concept jismain aapka ek type automatically convert hojayega 
  // "5"+1 will give 51 as yaha + will act as concetination
+
+
+// OPERATORS:- 
+ // Aritthematic operators :
+ //+ - * / % ** ++ --
+ // /= it retuens quotiens 
+ // %= returns reminder 
+  
+ //let a= 2;
+ //let b=3;
+ //console.log(a**b); // returns 8 
+
+
+ // Comparsion operators :
+// =, ==, ===, !=, !==, >, <, >=, <=
+
+// in js = is giving value to a variable
+// 12== '12' // this will return true because it is only checking the value and not the type, its not strict compariosion 
+// 12=== '12' // this will return false because it is checking both value and type and here the type is different so it will return false
+// 12!=13 //this will return true because the value is different
+
+// 12!=="12" // this will return true because the value is same but the type is different so it will return true
+// 12!="12"// return true
+
+// assignment operators :
+// = assign value to a variable
+// +=, -=, *=, /=, %=, **=
+
+//let a=10;
+//a+=3; // it mean 10 main add 3 kar do so a will become 13
+
+//let b=15;
+//b-=5; // it means 15 main se 5 minus kar do so b will become 10
+//b*=2; // it means 10 ko 2 se multiply kar do so b will become 20
+//b/=2; // it means 20 ko 2 se divide kar do so b will become 10
+//b%=3;
+// it means 10 ko 3 se divide kar do and return the reminder so b will become 1
+
+
+
+// Logical operators :
+// &&, ||, !
+ // AND Operator- && if both conditions are true then it will return true otherwise it will return false
+ // OR Operator- || if any one of the condition is true then it will return true otherwise it will return false
+// NOT Operator- ! it will return the opposite of the condition if the condition is true then it will return false and if the condition is false then it will return true
+
+
+// Urany operator :
+
+
+// IMp- if we write as +"Janhavi" then wo NAN main convert hoga
+
+
+// Unary operator: 
+// + - typeof ++ --
+ 
+
+// Ternary operator :
+//?: 
+// Exp- 12>13 ? console.log("true"): console.log("false") // this will return false because 12 is not greater than 13 so it will execute the second part of the ternary operator and print false
