@@ -174,3 +174,10 @@ a=true ;
 // Ternary operator :
 //?: 
 // Exp- 12>13 ? console.log("true"): console.log("false") // this will return false because 12 is not greater than 13 so it will execute the second part of the ternary operator and print false
+
+
+// Instanceof operator :
+// it is used to check whether an object is an instance of a particular class or not
+// like main apne parents ki beti ho ya nahi 
+// Example : let b={}
+// b instanceof Object // this will return true because b is an instance of Object class
