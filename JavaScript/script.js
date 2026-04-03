@@ -180,6 +180,6 @@ a=true ;
 // it is used to check whether an object is an instance of a particular class or not
 // like main apne parents ki beti ho ya nahi 
 // Example : let b={}
- b instanceof Object // this will return true because b is an instance of Object class
+ b instanceof Object // this will return true because b is an instance of Object classdhhdhhd
 
 Imp: instanceof works only on reference data types not on primitive data types because primitive data types are not objects and they do not have a prototype property so they cannot be instances of any class
