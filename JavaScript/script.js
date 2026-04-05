@@ -183,3 +183,7 @@ a=true ;
  b instanceof Object // this will return true because b is an instance of Object classdhhdhhd
 
 Imp: instanceof works only on reference data types not on primitive data types because primitive data types are not objects and they do not have a prototype property so they cannot be instances of any class
+
+
+
+Hhhahhahhaa
