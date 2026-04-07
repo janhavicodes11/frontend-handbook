@@ -185,5 +185,20 @@ a=true ;
 Imp: instanceof works only on reference data types not on primitive data types because primitive data types are not objects and they do not have a prototype property so they cannot be instances of any class
 
 
+// Control Flow :
+// if else  and else-if statement :
 
-Hhhahhahhaa
+// if(condition --> jo true ya false return karta hai){
+
+// example of Else-if statement : used for more conditions
+//if (loggedIn && admin) {
+
+//}
+
+//else if (loggedIn){
+
+//}
+
+//else{
+
+//}
