@@ -202,3 +202,34 @@ Imp: instanceof works only on reference data types not on primitive data types b
 //else{
 
 //}
+
+
+
+// Switch statment :
+//switch(3){
+    //case 1:
+        //console.log("one");
+        //break;
+        //case 2: 
+       // console.log("two");
+    //break;
+       // case 3:
+        //console.log("three");
+       // break;
+       // default:
+            //console.log("not found")
+        
+//}
+
+
+
+// Early return: yaha ham jaldi hi function se return kar sakte hai without executing the rest of the code
+
+function getVal(val){
+    if(val<25) return "D"
+    else if(val<50) return "C"
+    else if(val<75) return "B"
+    else return "A"
+}
+console.log(getVal(73))
+
