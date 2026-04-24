@@ -13,4 +13,21 @@ function dance(){
 }
 dance();
 
-function 
+// ways to create function 
+function abc(){
+
+}
+abc() // this is called declaration 
+
+// methods to call a function 
+function abs(){
+
+}
+
+// function expression method- yaha we store the function in a variable 
+let fnc= function(){
+
+}
+
+// fat arrow method 
+let abc= ()=>{
