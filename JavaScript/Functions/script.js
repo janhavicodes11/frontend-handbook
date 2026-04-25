@@ -59,3 +59,17 @@ function sum (v1=90 , v2=100){ // when we define parameters here its called defa
 }
 sum()
 
+
+
+
+// REST PARAMETER- jab arguments zyada ho utne hi parameters banane padenge to avoid that we use rest
+// example- function abcd(a,b,c,d etc){
+// }
+// abcd(20,10,29,92,56.76,87) since yaha 6 arugments and waha upar 6 parameters paas karna padega what if its more so to avoid that we write as 
+
+function abcd(...val){
+console.log(val)
+}
+abcd(20.120,90,65,34,87,100,23,25,27,98,10,11,12)
+ // this ... is also used in spread but how to know whether it is spread when its used in arrays and objects
+
