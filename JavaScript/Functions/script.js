@@ -44,3 +44,18 @@ function sum(v1, v2){
     console.log(v1+v2)
 }
 sum(100, 50)
+
+
+
+
+
+
+
+    
+
+// Default, rest and spread parameters 
+function sum (v1=90 , v2=100){ // when we define parameters here its called default 
+    console.log(v1 + v2)
+}
+sum()
+
