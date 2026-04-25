@@ -39,3 +39,8 @@ function dance (v1){ // v1 here is parameter jaha functions main de rahe
 }
 dance('horse');
 dance('deer')// this is arguements- jaha real values de rahe
+
+function sum(v1, v2){
+    console.log(v1+v2)
+}
+sum(100, 50)
