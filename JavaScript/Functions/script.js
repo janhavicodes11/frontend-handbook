@@ -31,3 +31,11 @@ let fnc= function(){
 
 // fat arrow method 
 let abc= ()=>{
+
+
+// we want to change value
+function dance (v1){ // v1 here is parameter jaha functions main de rahe
+    console.log(`${v1} lets dance`)
+}
+dance('horse');
+dance('deer')// this is arguements- jaha real values de rahe
