@@ -73,3 +73,27 @@ console.log(val)
 abcd(20.120,90,65,34,87,100,23,25,27,98,10,11,12)
  // this ... is also used in spread but how to know whether it is spread when its used in arrays and objects
 
+
+
+
+
+
+
+
+
+
+
+
+
+ // RETURN AND EARLY RETURN 
+ // return matlab jaha se aaya hai wahi daal dungi 
+ function abcd(){
+    return 12;
+ }
+
+
+
+
+
+
+ abcd()
