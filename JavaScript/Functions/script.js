@@ -97,3 +97,19 @@ abcd(20.120,90,65,34,87,100,23,25,27,98,10,11,12)
 
 
  abcd()
+
+
+
+
+
+
+
+ // First class function
+ // treated as value can be stored in variable +functions
+ function abcd (val){
+    val()
+ }
+
+ abcd(function(){
+    console.log("hey")
+ })
