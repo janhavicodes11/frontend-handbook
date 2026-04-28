@@ -113,3 +113,14 @@ abcd(20.120,90,65,34,87,100,23,25,27,98,10,11,12)
  abcd(function(){
     console.log("hey")
  })
+
+
+
+
+// Higher order functions 
+ //wo function jo return kare function ya fir accept kare ek funcion apne parameter main
+
+ function (val){ // its hof bbecause value acccept kar raha in parameter
+
+ }
+ abcd()
