@@ -233,3 +233,6 @@ function getVal(val){
 }
 console.log(getVal(73))
 
+
+Functions 
+
