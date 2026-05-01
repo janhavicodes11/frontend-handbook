@@ -100,17 +100,10 @@ abcd(20.120,90,65,34,87,100,23,25,27,98,10,11,12)
 
 
 
-Closure and Lexical Scoping :
-
-1. Closure - Ek aisa function jo return kare dusra function but that second function will use the values of first function. 
 
 
 
-
-
-
-
- // First class function
+// First class function
  // treated as value can be stored in variable +functions
  function abcd (val){
     val()
@@ -130,3 +123,12 @@ Closure and Lexical Scoping :
 
  }
  abcd()
+
+
+
+
+
+
+Closure and Lexical Scoping :
+
+1. Closure - Ek aisa function jo return kare dusra function but that second function will use the values of first function. 
